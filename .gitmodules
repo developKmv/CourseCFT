@@ -4,3 +4,6 @@
 [submodule "ReflectionCacheService"]
 	path = ReflectionCacheService
 	url = https://github.com/developKmv/ReflectionCacheService.git
+[submodule "CacheServiceThread"]
+	path = CacheServiceThread
+	url = https://github.com/developKmv/CacheServiceThread.git
