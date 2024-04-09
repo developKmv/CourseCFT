@@ -7,3 +7,6 @@
 [submodule "CacheServiceThread"]
 	path = CacheServiceThread
 	url = https://github.com/developKmv/CacheServiceThread.git
+[submodule "TaskFourSpring"]
+	path = TaskFourSpring
+	url = https://github.com/developKmv/TaskFourSpring.git
