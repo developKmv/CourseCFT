@@ -10,3 +10,6 @@
 [submodule "TaskFourSpring"]
 	path = TaskFourSpring
 	url = https://github.com/developKmv/TaskFourSpring.git
+[submodule "corporate-settlemen"]
+	path = corporate-settlemen
+	url = https://github.com/developKmv/corporate-settlemen
